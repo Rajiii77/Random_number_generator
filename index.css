@@ -1,0 +1,41 @@
+body{
+    text-align: center;
+    margin-top: 40px;
+    align-items: center;
+
+    /* align-items: center;
+    display: flex;
+    justify-content: center; */
+}
+.ranbtn{
+    font-size: 2em;
+    text-align: center;
+    background-color: rgb(71, 145, 194);
+    color: aliceblue;
+    border: 1px solid rgb(109, 108, 108);
+    padding: 10px;
+    
+}
+.num_container{
+    margin-top: 40px;
+    
+    
+    display: flex;
+    justify-content: center;
+    
+}
+.container{
+    align-items: center;
+    border: 2px solid black;
+    height: 200px;;
+    width:500px;
+    padding-top: 80px;
+    text-align: center;
+}
+.number{
+    align-items: center;
+    text-align: center;
+    padding-top: 20px;
+    font-size: 4em;
+    padding-left: 18px;
+}
